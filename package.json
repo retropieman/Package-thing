@@ -1,0 +1,25 @@
+{
+  "name": "package-thing",
+  "version": "1.0.0",
+  "description": "A very usless NPM package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retropieman/Package-thing.git"
+  },
+  "keywords": [
+    "crap",
+    "thing",
+    "junk",
+    "package"
+  ],
+  "author": "Witherman17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retropieman/Package-thing/issues"
+  },
+  "homepage": "https://github.com/retropieman/Package-thing/blob/master/README.md"
+}
