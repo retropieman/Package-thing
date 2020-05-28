@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/retropieman/Package-thing/issues"
   },
-  "homepage": "https://github.com/retropieman/Package-thing/blob/master/README.md"
+  "homepage": "https://github.com/retropieman/Package-thing/blob/master/README.md",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
